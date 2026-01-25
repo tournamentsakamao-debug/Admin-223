@@ -1,0 +1,5 @@
+{
+  "name": "Admin's Tournament - Elite Arena",
+  "description": "The ultimate Free Fire tournament platform with Supabase backend, real-time messaging, and secure wallet management.",
+  "requestFramePermissions": []
+}
